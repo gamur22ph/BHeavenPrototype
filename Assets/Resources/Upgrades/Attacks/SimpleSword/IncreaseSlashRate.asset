@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 908f62f37e43d7b49976213cc1cc5575, type: 3}
+  m_Name: IncreaseSlashRate
+  m_EditorClassIdentifier: 
+  maxLevel: 10
+  upgradeName: Lighter
+  upgradeDescription: Increases Slash Rate
+  attackData: {fileID: 11400000, guid: 66ae58ef37f5f3445896e9279fa12453, type: 2}
+  rateIncrease: 0.05
